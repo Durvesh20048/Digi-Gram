@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  ai-service:
+    build: ./ai-service
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/secrets/firebase-service-account.json
+      - AI_SERVICE_URL=http://ai-service:8000/predict
+    volumes:
+      - ./secrets:/secrets:ro
+    depends_on:
+      - ai-service
