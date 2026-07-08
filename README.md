@@ -237,5 +237,72 @@ VS Code
 
 The Digi-Gram platform follows a modular Full-Stack architecture where citizens interact with a React-based frontend, which communicates securely with Spring Boot REST APIs. The backend integrates AI modules for complaint prioritization, OCR, NLP, chatbot services, GIS mapping, and analytics while storing structured and semi-structured data using MySQL, Firebase, and MongoDB.
 
+---
+
+# 🤖 AI Workflow
+
+<p align="center">
+
+<img src="assets/ai-workflow.png" width="95%">
+
+</p>
+
+### AI Processing Pipeline
+
+Complaint Submission
+
+↓
+
+OCR Extraction
+
+↓
+
+Text Cleaning & Preprocessing
+
+↓
+
+BERT / NLP Processing
+
+↓
+
+Priority Prediction
+
+↓
+
+Category Classification
+
+↓
+
+Admin Dashboard
+
+↓
+
+Analytics & Reports
+
+---
+
+# 📂 Repository Structure
+
+```text
+Digi-Gram
+│
+├── assets/
+│
+├── backend/
+│
+├── frontend/
+│
+├── ml-models/
+│
+├── docs/
+│
+├── README.md
+│
+├── LICENSE
+│
+└── .gitignore
+```
+
+
 
 
