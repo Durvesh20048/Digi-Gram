@@ -44,3 +44,66 @@ AI-Powered Real-Time Digital Governance Platform for Rural Panchayats in India
 The platform enables citizens and administrators to efficiently manage complaints, government schemes, tax payments, certificates, village census, GIS-based assets, and public services from a single unified system.
 
 By integrating Artificial Intelligence, Machine Learning, OCR, NLP, GIS, and Full-Stack Web Technologies, Digi-Gram aims to improve transparency, reduce manual work, and deliver faster, smarter, and citizen-centric governance.
+
+---
+
+# 📑 Table of Contents
+
+- [📖 About Digi-Gram](#-about-digi-gram)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [🏗️ System Architecture](#️-system-architecture)
+- [🤖 AI Workflow](#-ai-workflow)
+- [📂 Repository Structure](#-repository-structure)
+- [📸 Screenshots](#-screenshots)
+- [🎥 Project Demo](#-project-demo)
+- [⚙️ Installation](#️-installation)
+- [🚀 Getting Started](#-getting-started)
+- [📚 Documentation](#-documentation)
+- [📄 Research Publication](#-research-publication)
+- [📜 Certificate of Completion](#-certificate-of-completion)
+- [🗺️ Future Scope](#️-future-scope)
+- [🤝 Contributors](#-contributors)
+- [📄 License](#-license)
+
+  ---
+
+# ✨ Key Features
+
+## 👥 Citizen Services
+
+- 📝 Online Complaint Registration
+- 📢 Government Scheme Information
+- 📄 Online Certificate Requests
+- 💳 Digital Tax Payment
+- 📱 Mobile-Friendly Interface
+
+---
+
+## 🤖 AI-Powered Features
+
+- 🧠 AI Complaint Prioritization
+- 💬 Intelligent Chatbot Assistance
+- 📄 OCR-Based Document Processing
+- 🏷️ Automatic Complaint Categorization
+- 📊 Predictive Analytics & Insights
+
+---
+
+## 🏛️ Administrative Features
+
+- 👨‍💼 Secure Admin Dashboard
+- 📊 Complaint Analytics
+- 🗺️ GIS-Based Village Asset Mapping
+- 👥 User & Staff Management
+- 📈 Real-Time Reports
+- 🔔 Notifications & Status Tracking
+
+---
+
+## 🔐 Security
+
+- 🔑 Role-Based Authentication
+- 🛡️ Secure REST APIs
+- 🔒 Encrypted User Data
+- ✅ Input Validation
