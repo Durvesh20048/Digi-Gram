@@ -243,7 +243,7 @@ The Digi-Gram platform follows a modular Full-Stack architecture where citizens 
 
 <p align="center">
 
-<img src="assets/ai-workflow.png" width="95%">
+<img src="assets/assets/workflow.png" width="95%">
 
 </p>
 
@@ -301,18 +301,12 @@ Digi-Gram
 ├── LICENSE
 │
 └── .gitignore
+
 ```
----
 
 # 📄 Research Publication
 
-<p align="center">
-  <img src="assets/ieee.png" width="900">
-</p>
-
-## 🏆 Published Research
-
-The research work behind **Digi-Gram** has been successfully published in the **International Journal of Computer Techniques (IJCT)**, highlighting the platform's contribution towards AI-powered digital governance for rural communities.
+🏆 The research work behind **Digi-Gram** has been successfully published in the **International Journal of Computer Techniques (IJCT)**.
 
 ### 📚 Publication Details
 
@@ -327,14 +321,17 @@ The research work behind **Digi-Gram** has been successfully published in the **
 | **Paper ID** | IJCT-V13I3P1 |
 | **Author** | Durvesh Rajesh Nayak |
 
-> 📄 The publication certificate and research paper are available inside the **docs/** directory.
+### 📎 Resources
+
+- 📄 **Research Paper:** [View Paper](docs/IEEE_Paper.pdf)
+
 
 ---
 
 # 📜 Certificate of Publication
 
 <p align="center">
-  <img src="assets/certificate.png" width="900">
+  <img src="assets/assets/COC.png" width="900">
 </p>
 
 The successful completion and publication of this research validates the technical contribution of **Digi-Gram** in the field of Artificial Intelligence, Smart Governance, and Digital Transformation for Rural India.
