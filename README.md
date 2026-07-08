@@ -231,7 +231,7 @@ VS Code
 
 <p align="center">
 
-<img src="" width="95%">
+<img src="assets/assets/architecture .png" width="95%">
 
 </p>
 
