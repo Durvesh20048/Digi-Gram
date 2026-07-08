@@ -392,13 +392,26 @@ Project Mentor
 </tr>
 </table>
 
+
 ---
 
+<p align="center">
+
+Made with ❤️ by **Durvesh Rajesh Nayak**, **Harshil Hulyalkar**, and **Parthamesh Mulik**
+
+⭐ If you found this project interesting, consider giving it a star.
+
+</p>
+---
 # 📄 License
 
 This project is intended for **academic, research, and educational purposes**.
 
 © 2026 Durvesh Rajesh Nayak. All Rights Reserved.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Durvesh20048&repo=Digi-Gram"/>
+</p>
 
 
 
