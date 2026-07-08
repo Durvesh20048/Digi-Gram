@@ -323,7 +323,9 @@ Digi-Gram
 
 ### 📎 Resources
 
-- 📄 **Research Paper:** [View Paper](docs/IEEE_Paper.pdf)
+## 📎 Research Paper
+
+> 📖 **[Click here to read the published research paper](docs/IEEE_DigiGram_Research%20Paper_2026.pdf)**
 
 
 ---
