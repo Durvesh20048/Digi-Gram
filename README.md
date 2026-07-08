@@ -247,37 +247,46 @@ The Digi-Gram platform follows a modular Full-Stack architecture where citizens 
 
 </p>
 
-### AI Processing Pipeline
+---
 
-Complaint Submission
+# 🤖 AI Workflow
 
-↓
+```text
+Citizen Complaint
+        │
+        ▼
+Complaint Registration
+        │
+        ▼
+Text Preprocessing
+(Lowercase • Stopword Removal • Tokenization)
+        │
+        ▼
+TF-IDF Feature Extraction
+(3000 Features • N-grams 1–3)
+        │
+        ▼
+Ensemble Machine Learning Model
+(Logistic Regression + Random Forest +
+ Gradient Boosting + SVM)
+        │
+        ▼
+Soft Voting Mechanism
+        │
+        ▼
+Priority Classification
+(HIGH • MEDIUM • LOW)
+        │
+        ▼
+Confidence Score Generation
+        │
+        ▼
+Admin Dashboard & Analytics
+```
 
-OCR Extraction
+### AI Pipeline Overview
 
-↓
-
-Text Cleaning & Preprocessing
-
-↓
-
-BERT / NLP Processing
-
-↓
-
-Priority Prediction
-
-↓
-
-Category Classification
-
-↓
-
-Admin Dashboard
-
-↓
-
-Analytics & Reports
+The complaint text submitted by the citizen undergoes preprocessing, including text normalization, stopword removal, and tokenization. The processed text is transformed into numerical feature vectors using the **TF-IDF Vectorizer**. These features are evaluated by an **ensemble of machine learning models** consisting of Logistic Regression, Random Forest, Gradient Boosting, and Support Vector Machine (SVM). The final priority is determined using a **Soft Voting Classifier**, which predicts whether the complaint should be classified as **High**, **Medium**, or **Low** priority along with a confidence score. The prediction is then displayed on the administrative dashboard for efficient complaint management.
 
 ---
 
