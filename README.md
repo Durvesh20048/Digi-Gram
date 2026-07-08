@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="assets/Gemini_Generated_Image_diypm2diypm2diyp.png" alt="Digi-Gram Banner" width="100%">
+  <img src="assets/assets/Gemini_Generated_Image_diypm2diypm2diyp.png" alt="Digi-Gram Banner" width="100%">
 </p>
 
 ---
