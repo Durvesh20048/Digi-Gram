@@ -55,10 +55,6 @@ By integrating Artificial Intelligence, Machine Learning, OCR, NLP, GIS, and Ful
 - [🏗️ System Architecture](#️-system-architecture)
 - [🤖 AI Workflow](#-ai-workflow)
 - [📂 Repository Structure](#-repository-structure)
-- [📸 Screenshots](#-screenshots)
-- [🎥 Project Demo](#-project-demo)
-- [⚙️ Installation](#️-installation)
-- [🚀 Getting Started](#-getting-started)
 - [📚 Documentation](#-documentation)
 - [📄 Research Publication](#-research-publication)
 - [📜 Certificate of Completion](#-certificate-of-completion)
@@ -107,3 +103,139 @@ By integrating Artificial Intelligence, Machine Learning, OCR, NLP, GIS, and Ful
 - 🛡️ Secure REST APIs
 - 🔒 Encrypted User Data
 - ✅ Input Validation
+
+- ---
+
+# 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+
+<td align="center" width="180">
+
+### 💻 Frontend
+
+React.js
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+</td>
+
+<td align="center" width="180">
+
+### ⚙️ Backend
+
+Java
+
+Spring Boot
+
+Spring Security
+
+REST APIs
+
+Hibernate (JPA)
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️ Database
+
+MySQL
+
+Firebase
+
+MongoDB
+
+Cloudinary
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖 AI & ML
+
+Python
+
+BERT
+
+NLP
+
+OCR
+
+OpenAI API
+
+Hugging Face
+
+</td>
+
+<td align="center">
+
+### 🗺️ GIS
+
+QGIS
+
+Leaflet.js
+
+OpenStreetMap
+
+GeoJSON
+
+</td>
+
+<td align="center">
+
+### ☁️ Tools
+
+Git
+
+GitHub
+
+Docker
+
+Render
+
+Postman
+
+VS Code
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🏆 Technologies Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,python,mysql,mongodb,firebase,docker,git,github,vscode&perline=7"/>
+
+</p>
+
+---
+
+# 🏗️ System Architecture
+
+<p align="center">
+
+<img src="" width="95%">
+
+</p>
+
+The Digi-Gram platform follows a modular Full-Stack architecture where citizens interact with a React-based frontend, which communicates securely with Spring Boot REST APIs. The backend integrates AI modules for complaint prioritization, OCR, NLP, chatbot services, GIS mapping, and analytics while storing structured and semi-structured data using MySQL, Firebase, and MongoDB.
+
+
+
