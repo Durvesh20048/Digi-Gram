@@ -4,6 +4,9 @@
   <img src="assets/assets/Gemini_Generated_Image_diypm2diypm2diyp.png" alt="Digi-Gram Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Full+Stack+Developer;%E2%98%95+Java+%7C+Spring+Boot;%F0%9F%8C%90+React+Developer;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%9A%80+Building+Real-World+Projects" alt="Typing SVG" />
+</p>
 ---
 
 <h1 align="center">Digi-Gram</h1>
