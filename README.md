@@ -302,7 +302,99 @@ Digi-Gram
 │
 └── .gitignore
 ```
+---
 
+# 📄 Research Publication
+
+<p align="center">
+  <img src="assets/ieee.png" width="900">
+</p>
+
+## 🏆 Published Research
+
+The research work behind **Digi-Gram** has been successfully published in the **International Journal of Computer Techniques (IJCT)**, highlighting the platform's contribution towards AI-powered digital governance for rural communities.
+
+### 📚 Publication Details
+
+| Field | Details |
+|-------|---------|
+| **Paper Title** | DigiGram: An AI-Powered Real-Time Digital Governance Platform for Rural Panchayats in India |
+| **Journal** | International Journal of Computer Techniques (IJCT) |
+| **ISSN** | 2394-2231 |
+| **Volume** | 13 |
+| **Issue** | 3 |
+| **Year** | 2026 |
+| **Paper ID** | IJCT-V13I3P1 |
+| **Author** | Durvesh Rajesh Nayak |
+
+> 📄 The publication certificate and research paper are available inside the **docs/** directory.
+
+---
+
+# 📜 Certificate of Publication
+
+<p align="center">
+  <img src="assets/certificate.png" width="900">
+</p>
+
+The successful completion and publication of this research validates the technical contribution of **Digi-Gram** in the field of Artificial Intelligence, Smart Governance, and Digital Transformation for Rural India.
+
+The certificate is included in the **docs/** directory for reference.
+
+---
+
+# 🤝 Contributors
+
+<table align="center">
+<tr>
+
+<td align="center" width="250">
+
+### 👨‍💻 Durvesh Rajesh Nayak
+
+**Full Stack Developer**
+
+AI Integration • Backend • System Architecture
+
+</td>
+
+<td align="center" width="250">
+
+### 👨‍💻 Harish Hulyalkar
+
+**Full Stack Developer**
+
+Frontend • Backend • Application Development
+
+</td>
+
+<td align="center" width="250">
+
+### 👨‍💻 Parthamesh Mulik
+
+**Full Stack Developer**
+
+Frontend • Backend • System Development
+
+</td>
+## 🎓 Project Guide
+
+*Supriya Chougule*
+
+Project Mentor
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📄 License
+
+This project is intended for **academic, research, and educational purposes**.
+
+© 2026 Durvesh Rajesh Nayak. All Rights Reserved.
 
 
 
