@@ -52,7 +52,6 @@ By integrating Artificial Intelligence, Machine Learning, OCR, NLP, GIS, and Ful
 - [🏗️ System Architecture](#️-system-architecture)
 - [🤖 AI Workflow](#-ai-workflow)
 - [📂 Repository Structure](#-repository-structure)
-- [📚 Documentation](#-documentation)
 - [📄 Research Publication](#-research-publication)
 - [📜 Certificate of Completion](#-certificate-of-completion)
 - [🗺️ Future Scope](#️-future-scope)
